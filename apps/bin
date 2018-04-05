@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/pm2 start $FE_BASE_PATH/conf/process.yml --env $FE_ENV_TAG
