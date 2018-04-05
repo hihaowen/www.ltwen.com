@@ -1,5 +1,5 @@
 apps:
-  - script   : bin/www.js
+  - script   : apps/www.js
     name     : 'default app'
     instances: 4
     exec_mode: cluster
